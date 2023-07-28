@@ -1,0 +1,64 @@
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Acer Nitro 5\source\repos\hospital_1\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\Acer Nitro 5\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
